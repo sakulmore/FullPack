@@ -18,6 +18,8 @@ I update this pack every Sunday evening (if there is/are a new version/s availab
 
 - Done.
 
+- **Recommended:** Open the file reunion.cfg and search for the line `SteamIdHashSalt`. Enter a randomly generated word here.
+
 ## Content
 ### Main
 | Name | Version |

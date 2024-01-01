@@ -1,0 +1,32 @@
+"AppState"
+{
+	"appid"		"60"
+	"Universe"		"1"
+	"name"		"Ricochet"
+	"StateFlags"		"68"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1527553288"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"17599390"
+	"buildid"		"1945023"
+	"LastOwner"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+		"betakey"		"public"
+	}
+	"InstalledDepots"
+	{
+		"61"
+		{
+			"manifest"		"6918752409486941518"
+		}
+	}
+	"MountedDepots"
+	{
+		"61"		"6918752409486941518"
+	}
+}

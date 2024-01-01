@@ -1,0 +1,32 @@
+"AppState"
+{
+	"appid"		"40"
+	"Universe"		"1"
+	"name"		"Deathmatch Classic"
+	"StateFlags"		"70"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1527553261"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"48234006"
+	"buildid"		"1944989"
+	"LastOwner"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+		"betakey"		"public"
+	}
+	"InstalledDepots"
+	{
+		"41"
+		{
+			"manifest"		"2113351432952254181"
+		}
+	}
+	"MountedDepots"
+	{
+		"41"		"2113351432952254181"
+	}
+}

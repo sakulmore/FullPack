@@ -1,0 +1,32 @@
+"AppState"
+{
+	"appid"		"50"
+	"Universe"		"1"
+	"name"		"Half-Life: Opposing Force"
+	"StateFlags"		"70"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1527552995"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"286248930"
+	"buildid"		"1945006"
+	"LastOwner"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+		"betakey"		"public"
+	}
+	"InstalledDepots"
+	{
+		"51"
+		{
+			"manifest"		"8283583786131617677"
+		}
+	}
+	"MountedDepots"
+	{
+		"51"		"8283583786131617677"
+	}
+}

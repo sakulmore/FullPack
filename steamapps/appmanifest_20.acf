@@ -1,0 +1,32 @@
+"AppState"
+{
+	"appid"		"20"
+	"Universe"		"1"
+	"name"		"Team Fortress Classic"
+	"StateFlags"		"70"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1527553100"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"124981914"
+	"buildid"		"1945037"
+	"LastOwner"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"UserConfig"
+	{
+		"betakey"		"public"
+	}
+	"InstalledDepots"
+	{
+		"21"
+		{
+			"manifest"		"5142978789702751233"
+		}
+	}
+	"MountedDepots"
+	{
+		"21"		"5142978789702751233"
+	}
+}

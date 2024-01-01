@@ -30,7 +30,7 @@ I update this pack every Sunday evening (if there is/are a new version/s availab
 | Reunion | 0.1.0.137 [BETA] |
 | VoiceTranscoder | 2017 RCS |
 | Metamod-r | 1.3.0.138 |
-| Reapi | 5.22.0.254 |
+| Reapi | 5.24.0.300 |
 
 ### Optional Features (disabled by default)
 | Name | Version |

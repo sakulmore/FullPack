@@ -30,7 +30,7 @@ I update this pack every Sunday evening (if there is/are a new version/s availab
 | [Reunion](https://cs.rin.ru/forum/viewtopic.php?f=29&t=69235) | 0.1.0.137 [BETA] |
 | [VoiceTranscoder](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) | 2017 RCS |
 | [Metamod-r](https://github.com/theAsmodai/metamod-r) | 1.3.0.138 |
-| [Reapi](https://github.com/s1lentq/reapi) | 5.24.0.300 |
+| [ReAPI](https://github.com/s1lentq/reapi) | 5.24.0.300 |
 
 ### Optional Features (disabled by default)
 | Name | Version |

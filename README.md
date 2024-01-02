@@ -18,25 +18,27 @@ I update this pack every Sunday evening (if there is/are a new version/s availab
 
 - Done.
 
+- **Recommended:** Open the file reunion.cfg and search for the line `SteamIdHashSalt`. Enter a randomly generated word here.
+
 ## Content
 ### Main
 | Name | Version |
 |-|-|
-| AMX Mod X | 1.10.5467 |
-| ReHLDS | 3.13.0.788 |
-| ReGameDLL | 5.26.0.668 |
-| Reunion | 0.1.0.137 [BETA] |
-| VoiceTranscoder | 2017 RCS |
-| Metamod-r | 1.3.0.138 |
-| Reapi | 5.22.0.254 |
+| [AMX Mod X](https://www.amxmodx.org/downloads-new.php?branch=master&all=1) | 1.10.5467 |
+| [ReHLDS](https://github.com/dreamstalker/rehlds/) | 3.13.0.788 |
+| [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS) | 5.26.0.668 |
+| [Reunion](https://cs.rin.ru/forum/viewtopic.php?f=29&t=69235) | 0.1.0.137 [BETA] |
+| [VoiceTranscoder](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) | 2017 RCS |
+| [Metamod-r](https://github.com/theAsmodai/metamod-r) | 1.3.0.138 |
+| [Reapi](https://github.com/s1lentq/reapi) | 5.24.0.300 |
 
 ### Optional Features (disabled by default)
 | Name | Version |
 |-|-|
-| ReAuthChecker | 0.1.6 |
-| ReChecker | 2.7 |
-| ReSemiclip | 2.4.3 |
-| WHBlocker | 1.5.697 |
+| [ReAuthChecker](https://dev-cs.ru/resources/63/) | 0.1.6 |
+| [ReChecker](https://dev-cs.ru/resources/72/) | 2.7 |
+| [ReSemiclip](https://dev-cs.ru/resources/71/) | 2.4.3 |
+| [WHBlocker](https://dev-cs.ru/resources/76/) | 1.5.697 |
 
 _(These features are disabled by default. If you want to enable them, just remove the ";" in **/cstrike/addons/metamod/plugins.ini**.)_
 

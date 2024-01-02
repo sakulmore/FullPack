@@ -3,7 +3,7 @@ This Full Pack is inspired by the [Base Pack](https://github.com/AMXX-pl/BasePac
 
 This Full Pack includes the latest versions of AMXModX, Reunion, VoiceTranscoder, etc... for Counter-Strike 1.6. Everything that this pack contains can be found below.
 
-This Full Pack also includes the corrected geop.inc and GeoLite2-City.mmdb files.
+This Full Pack also includes the corrected geoip_amxx_i386.so and GeoLite2-City.mmdb files.
 
 I update this pack every Sunday evening (if there is/are a new version/s available).
 

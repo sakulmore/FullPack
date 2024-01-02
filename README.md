@@ -7,7 +7,7 @@ This Full Pack also includes the corrected geoip_amxx_i386.so and GeoLite2-City.
 
 I update this pack every Sunday evening (if there is/are a new version/s available).
 
-### Installation
+## Installation
 - We will need a clean installation of the game server Counter-Strike 1.6.
 
 - After installing the server, we will download the latest Release.
@@ -42,7 +42,7 @@ I update this pack every Sunday evening (if there is/are a new version/s availab
 
 _(These features are disabled by default. If you want to enable them, just remove the ";" in **/cstrike/addons/metamod/plugins.ini**.)_
 
-### Server Version (HLDS)
+## Server Version (HLDS)
 | Version |
 |-|
 | b7559 |

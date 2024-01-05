@@ -28,7 +28,7 @@ I update this pack every Sunday evening (if there is/are a new version/s availab
 | [ReHLDS](https://github.com/dreamstalker/rehlds/) | 3.13.0.788 |
 | [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS) | 5.26.0.668 |
 | [Reunion](https://cs.rin.ru/forum/viewtopic.php?f=29&t=69235) | 0.1.0.137 [BETA] |
-| [VoiceTranscoder](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) | 2017 RCS |
+| [VoiceTranscoder](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) | 2017 RC5 |
 | [Metamod-r](https://github.com/theAsmodai/metamod-r) | 1.3.0.138 |
 | [ReAPI](https://github.com/s1lentq/reapi) | 5.24.0.300 |
 
